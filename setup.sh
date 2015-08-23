@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#imporve for my Kali Linux 2.0 Sana
 clear
 echo
 echo
