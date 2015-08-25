@@ -1,13 +1,12 @@
 #!/bin/bash
-#imporve for my Kali Linux 2.0 Sana
+#improve for my Kali Linux 2.0 Sana
 clear
 echo
 echo
 
 # Global variables
 bdate=$(date +"%m-%d-%Y"-%R:%S)
-os=$(cat /etc/host)
-user=$(whoami)
+
 
 ##############################################################################################################
 
